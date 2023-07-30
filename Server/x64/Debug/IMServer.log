@@ -1,0 +1,17 @@
+﻿  Kernel.cpp
+E:\Desk\Network\CommunicateSoftware\Server\Kernel.cpp(187,44): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+E:\Desk\Network\CommunicateSoftware\Server\Kernel.cpp(205,45): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+E:\Desk\Network\CommunicateSoftware\Server\Kernel.cpp(208,47): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+E:\Desk\Network\CommunicateSoftware\Server\Kernel.cpp(247,51): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+E:\Desk\Network\CommunicateSoftware\Server\Kernel.cpp(288,48): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+E:\Desk\Network\CommunicateSoftware\Server\Kernel.cpp(313,51): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+E:\Desk\Network\CommunicateSoftware\Server\Kernel.cpp(338,48): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+  main.cpp
+  TcpServerMediator.cpp
+  TcpClientNet.cpp
+E:\Desk\Network\CommunicateSoftware\Server\net\TcpClientNet.cpp(176,31): warning C4244: “参数”: 从“SOCKET”转换到“long”，可能丢失数据
+  TcpServerNet.cpp
+E:\Desk\Network\CommunicateSoftware\Server\net\TcpServerNet.cpp(226,33): warning C4244: “参数”: 从“SOCKET”转换到“long”，可能丢失数据
+  UdpNet.cpp
+  正在生成代码...
+  IMServer.vcxproj -> E:\Desk\Network\CommunicateSoftware\Server\x64\Debug\IMServer.exe
